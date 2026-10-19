@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" bgcolor="#003B20">
 
 <a href="https://github.com/piyushgujor666-glitch">
   <img src="https://img.shields.io/badge/PIYUSH_OS-ACCESS_GRANTED-00FF88?style=for-the-badge&logo=linux&logoColor=00FF88&labelColor=050807" />
