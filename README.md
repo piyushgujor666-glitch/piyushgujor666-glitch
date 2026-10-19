@@ -82,27 +82,15 @@ Building a platform concept for connecting customers with service providers thro
 - Responsive React interface
 - Full-stack development in progress
 
-[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories)
+[![View Code]([https://img.shields.io/badge/VIEW_CODE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories](https://github.com/piyushgujor666-glitch/HomeServes))
 
-### `>> PROCESS_002 // PROXISPEAK`
-
-**Internship Project**
-
-Developing an application with an emphasis on reusable components, maintainable code, and API integration.
-
-- React frontend
-- Application architecture
-- Backend and API learning
-
-[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories)
-
-### `>> PROCESS_003 // PORTFOLIO`
+### `>> PROCESS_002 // PORTFOLIO`
 
 **Personal Developer Brand**
 
 Showcasing projects, technical skills, and progress as a software developer.
 
-[![Explore GitHub](https://img.shields.io/badge/EXPLORE_PROJECTS-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories)
+[![View Code]([https://img.shields.io/badge/EXPLORE_PROJECTS-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories](https://github.com/piyushgujor666-glitch/personal-portfolio_Piyush))
 
 ---
 
