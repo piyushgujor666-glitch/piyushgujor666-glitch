@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/PIYUSH_OS-ACCESS_GRANTED-00FF88?style=for-the-badge&logo=linux&logoColor=00FF88&labelColor=050807" />
 </a>
 
-<img width="100%" src="assets/hacker-banner.png" alt="PiyushOS hacker workstation banner" />
+<img width="100%" src="blob:https://chatgpt.com/d5c0695b-fd76-443a-8a98-1ad8414fa24c" alt="PiyushOS hacker workstation banner" />
 
 <h1>PIYUSH<span>_</span>OS</h1>
 
