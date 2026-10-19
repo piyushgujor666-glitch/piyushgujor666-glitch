@@ -1,180 +1,167 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=PIYUSH%40ROOT&fontSize=48&color=0:001A0A,100:003B20&fontColor=00FF66&stroke=00FF66&animation=fadeIn&desc=THE%20CODE%20IS%20MY%20LANGUAGE&descSize=13&descAlignY=72" width="100%" alt="Piyush at Root hacker terminal banner"/>
+<a href="https://github.com/piyushgujor666-glitch">
+  <img src="https://img.shields.io/badge/PIYUSH_OS-ACCESS_GRANTED-00FF88?style=for-the-badge&logo=linux&logoColor=00FF88&labelColor=050807" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=700&color=00FF66&center=true&vCenter=true&width=650&lines=%24+sudo+init+developer-mode;%24+loading+skills+and+projects...;%24+while(true)+%7B+learn();+build();+repeat();+%7D;%24+access+granted.+Welcome+to+my+profile." alt="Terminal command animation"/>
+<img width="100%" src="assets/hacker-banner.png" alt="PiyushOS hacker workstation banner" />
+
+<h1>PIYUSH<span>_</span>OS</h1>
+
+<p><code>root@piyushOS:~$ whoami</code></p>
+
+<h3>BUILDING THE FUTURE, ONE COMMIT AT A TIME.</h3>
+
+<p>
+  <a href="https://github.com/piyushgujor666-glitch">
+    <img src="https://img.shields.io/badge/GitHub-Explore-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=080D0B" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-gujor-241712383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080D0B" />
+  </a>
+  <a href="https://leetcode.com/u/PiyushGujor/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=080D0B" />
+  </a>
+</p>
+
+`[ SYSTEM ONLINE ]` · `[ DEVELOPER MODE ]` · `[ NEVER STOP BUILDING ]`
 
 </div>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  PIYUSH@ROOT                                             │
-│  ──────────────────────────────────────────────────────  │
-│  USER      : Piyush Gujor                                 │
-│  ROLE      : CSE STUDENT / DEVELOPER                      │
-│  SHELL     : /bin/bash                                    │
-│  WORKSPACE : ~/projects                                   │
-│  MISSION   : BUILD > BREAK > DEBUG > REPEAT               │
-└──────────────────────────────────────────────────────────┘
-```
-
-> `01001000 01100101 01101100 01101100 01101111`
->
-> **Hello, world. I'm Piyush.**
-
-I explore code, solve problems, and build applications that turn ideas into reality. My goal is to understand the engineering behind software—not just write code that works.
-
-[ `GITHUB` ](https://github.com/piyushgujor666-glitch) · [ `LINKEDIN` ](https://www.linkedin.com/in/piyush-gujor-241712383/) · [ `LEETCODE` ](https://leetcode.com/u/PiyushGujor/)
 
 ---
 
-## `01 // /etc/identity.conf`
-
-```bash
-$ cat /etc/identity.conf
-
-NAME="Piyush Gujor"
-EDUCATION="B.Tech CSE @ SRMIST"
-INTERESTS=("Software Engineering" "Web Development" "DSA")
-LANGUAGES=("C++" "JavaScript" "Python")
-CURRENT_MODE="LEARNING_AND_BUILDING"
-ACCESS_LEVEL="STUDENT_DEVELOPER"
-```
-
-## `02 // /usr/bin/skills --list`
+## `01. /about_me`
 
 ```text
-[ PROGRAMMING ]
-├── C++              [ DSA / Problem Solving ]
-└── Python           [ Programming Fundamentals ]
+piyush@PiyushOS:~$ cat profile.txt
 
-[ WEB DEVELOPMENT ]
-├── HTML5            [ Interfaces ]
-├── CSS3             [ Responsive Design ]
-├── JavaScript       [ Application Logic ]
-└── React            [ Component-Based UI ]
-
-[ DEVELOPMENT TOOLS ]
-├── Git              [ Version Control ]
-├── GitHub           [ Code Hosting ]
-└── Vite             [ Frontend Tooling ]
+NAME        : Piyush Gujor
+ROLE        : Computer Science Engineering Student
+UNIVERSITY  : SRM Institute of Science and Technology
+SPECIALITY  : Frontend Development & Problem Solving
+MISSION     : Become a strong software engineer
+PHILOSOPHY  : Learn > Build > Debug > Improve
 ```
 
-## `03 // ls -la ~/projects`
+> I turn ideas into software, explore new technologies, and keep improving through real projects and problem-solving.
 
-<details>
-<summary><code>drwxr-xr-x  FixMate/</code> — Home services platform</summary>
-
-```bash
-$ cd ~/projects/FixMate
-
-PROJECT_TYPE="Home Services Platform"
-MODULES=("Customer" "Worker" "Admin")
-FOCUS="Booking workflows and responsive interfaces"
-STATUS="ONGOING DEVELOPMENT"
-```
-
-Building a platform concept around service discovery, bookings, and separate interfaces for customers, workers, and administrators.
-
-</details>
-
-<details>
-<summary><code>drwxr-xr-x  ProxiSpeak/</code> — Internship project</summary>
-
-```bash
-$ cd ~/projects/ProxiSpeak
-
-FOCUS=("React" "Components" "API Integration")
-OBJECTIVE="Build a maintainable application"
-STATUS="IN DEVELOPMENT"
-```
-
-Working toward a structured application with reusable components and a clear development workflow.
-
-</details>
-
-<details>
-<summary><code>drwxr-xr-x  Portfolio/</code> — Developer identity</summary>
-
-```bash
-$ cd ~/projects/Portfolio
-
-PURPOSE="Showcase projects and technical growth"
-FOCUS=("UI/UX" "Project Demos" "Personal Branding")
-STATUS="CONTINUOUS IMPROVEMENT"
-```
-
-A place to present my work, document my progress, and build my developer identity.
-
-</details>
-
-## `04 // ./run --current-objectives`
-
-```bash
-$ ./run --current-objectives
-
-[RUNNING]  Strengthen C++ and DSA
-[RUNNING]  Improve JavaScript and React
-[QUEUED]   Learn backend development
-[QUEUED]   Understand databases and system design
-
-[OUTPUT]   Becoming a better engineer, one project at a time.
-```
-
-## `05 // git status`
-
-```text
-On branch: main
-
-Working tree:
-  modified: problem_solving.cpp
-  modified: developer_skills
-  untracked: new_ideas/
-
-Next commit:
-  "feat: turn another idea into working software"
-```
-
-## `06 // ./system-monitor.sh`
+## `02. /tech_stack`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushgujor666-glitch&show_icons=true&hide_border=true&bg_color=050807&title_color=00FF66&text_color=B8D8C2&icon_color=00FF66&rank_icon=github" alt="GitHub statistics"/>
+### `cat skills.json`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgujor666-glitch&layout=compact&hide_border=true&bg_color=050807&title_color=00FF66&text_color=B8D8C2" alt="Programming language statistics"/>
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML CSS JavaScript React Vite" />
+
+**PROGRAMMING**
+
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" alt="C++ and Python" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
 
 </div>
 
-## `07 // ~/.config/mindset.conf`
+## `03. /active_processes`
 
-```ini
-[developer]
-curiosity = enabled
-consistency = enabled
-debugging = never_skip
-learning = continuous
-ego = minimize
-code_quality = improve
+### `>> PROCESS_001 // FIXMATE`
 
-[mission]
-learn_deeply = true
-build_useful_products = true
-never_stop_improving = true
+**Home Services Platform**
+
+Building a platform concept for connecting customers with service providers through separate customer, worker, and admin experiences.
+
+- Service discovery and booking workflows
+- Responsive React interface
+- Full-stack development in progress
+
+[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories)
+
+### `>> PROCESS_002 // PROXISPEAK`
+
+**Internship Project**
+
+Developing an application with an emphasis on reusable components, maintainable code, and API integration.
+
+- React frontend
+- Application architecture
+- Backend and API learning
+
+[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories)
+
+### `>> PROCESS_003 // PORTFOLIO`
+
+**Personal Developer Brand**
+
+Showcasing projects, technical skills, and progress as a software developer.
+
+[![Explore GitHub](https://img.shields.io/badge/EXPLORE_PROJECTS-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080D0B)](https://github.com/piyushgujor666-glitch?tab=repositories)
+
+---
+
+## `04. /github_telemetry`
+
+<div align="center">
+
+<a href="https://github.com/piyushgujor666-glitch">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushgujor666-glitch&show_icons=true&hide_border=true&bg_color=080D0B&title_color=00FF88&text_color=E0F5E9&icon_color=00FF88" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/piyushgujor666-glitch">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgujor666-glitch&layout=compact&hide_border=true&bg_color=080D0B&title_color=00FF88&text_color=E0F5E9" alt="Most used languages" />
+</a>
+
+<a href="https://github.com/piyushgujor666-glitch">
+  <img width="80%" src="https://streak-stats.demolab.com?user=piyushgujor666-glitch&theme=dark&hide_border=true&background=080D0B&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+## `05. /execution_queue`
+
+```bash
+piyush@PiyushOS:~$ ./current_mission.sh
+
+[RUNNING]  C++ and Data Structures & Algorithms
+[RUNNING]  JavaScript and React development
+[LEARNING] Backend development and databases
+[BUILDING] FixMate and ProxiSpeak
+
+NEXT_TARGET="Ship useful, reliable software"
 ```
+
+## `06. /connect`
+
+<div align="center">
+
+<a href="https://github.com/piyushgujor666-glitch">
+  <img src="https://img.shields.io/badge/GitHub-piyushgujor666--glitch-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=080D0B" />
+</a>
+
+<a href="https://www.linkedin.com/in/piyush-gujor-241712383/">
+  <img src="https://img.shields.io/badge/LinkedIn-Piyush_Gujor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080D0B" />
+</a>
+
+<a href="https://leetcode.com/u/PiyushGujor/">
+  <img src="https://img.shields.io/badge/LeetCode-PiyushGujor-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080D0B" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
 ```text
-   [ CONNECTION CLOSED ]
-
-   THANK YOU FOR ACCESSING PIYUSH@ROOT
-
-   KEEP CODING. KEEP EXPLORING.
-   ─────────────────────────────
-   EOF // END OF TRANSMISSION
+╔══════════════════════════════════════════════════════╗
+║  GOOD CODE IS CRAFTED, NOT RUSHED.                  ║
+║                                                      ║
+║  STATUS: LEARNING • BUILDING • EVOLVING              ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-00FF66?style=for-the-badge&labelColor=050807" alt="Built with curiosity"/>
+**`PiyushOS // END OF TRANSMISSION`**
 
 </div>
